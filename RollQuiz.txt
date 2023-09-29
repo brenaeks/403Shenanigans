@@ -24,7 +24,7 @@ rankin
 row-shell
 roller
 shepherd
-shrop-shire
+[x] Bre'Nae shrop-shire
 simon
 sulzer
 tar-rinse
